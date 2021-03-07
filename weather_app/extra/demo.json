@@ -1,0 +1,12 @@
+{
+  "coord":{"lon":91.6667,"lat":24.5},
+  "weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],
+  "base":"stations",
+  "main":{"temp":305.73,"feels_like":304.29,"temp_min":305.73,"temp_max":305.73,"pressure":1008,"humidity":27,"sea_level":1008,"grnd_level":1007},
+  "visibility":10000,
+  "wind":{"speed":2.58,"deg":263},
+  "clouds":{"all":48},
+  "dt":1614764034,
+  "sys":{"country":"BD","sunrise":1614730460,"sunset":1614772597},
+  "timezone":21600,"id":1477362,"name":"Sylhet Division","cod":200
+}
